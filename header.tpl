@@ -1,4 +1,3 @@
-<!-- Hello World -->
 <HTML>
 <HEAD>
 {popup_init src="/javascripts/overlib.js"}
