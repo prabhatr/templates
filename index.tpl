@@ -81,3 +81,9 @@ This is an example of the html_options function:
 {include file="footer.tpl"}
 
 Prabhat Ranjan
+Prabhat Ranjan 2
+<form>
+<select name=states>
+{html_options values=$option_values selected=$option_selected output=$option_output}
+</select>
+</form>
